@@ -11,7 +11,6 @@ DerivedData/
 !default.pbxuser
 *.mode1v3
 !default.mode1v3
-*.DS_Store
 *.mode2v3
 !default.mode2v3
 *.perspectivev3
@@ -62,3 +61,4 @@ fastlane/test_output
 # https://github.com/johnno1962/injectionforxcode
 
 iOSInjectionProject/
+*/.DS_Store
